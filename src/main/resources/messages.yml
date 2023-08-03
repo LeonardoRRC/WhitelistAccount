@@ -1,0 +1,5 @@
+no_ip_assigned: "&cNo tienes una IP asignada."
+ip_mismatch: "&cTu IP no coincide con la IP asignada."
+no_console: "&cEste comando solo puede ser ejecutado desde la consola."
+command_incorrect: "&cUso incorrecto del comando. Uso correcto: /whitelistaccount (nick) (ip)"
+#ipchange: "" # No puedes editar este mensaje temporalmente
